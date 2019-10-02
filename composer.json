@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "texthtml/whoops-pimple": "~1.0",
-        "silex/silex": "~2.0@dev"
+        "texthtml/whoops-pimple": "*"
     },
     "autoload": {
         "psr-4": {
